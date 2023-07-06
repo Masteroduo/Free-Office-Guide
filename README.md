@@ -16,6 +16,10 @@
 ![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/45da2230-9beb-4ca4-9368-0e3424262191)
 ![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/3c19cdaa-8811-4ec5-adee-60955f0191e2)
 
+## If you get the following screen click on "Install 64bit"
+![WhatsApp Image 2023-07-06 at 15 08 03](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/0bfbb305-354e-423b-ac65-87c46e56d131)
+
+
 ### 2. After you are done installing the apps you require, download the MAS Activation script from the above link and follow the steps below:
 
 ![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/80b8b71b-ae81-4462-80ac-c3f0496b8782)
