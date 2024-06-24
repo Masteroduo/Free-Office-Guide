@@ -22,16 +22,17 @@
 ![WhatsApp Image 2023-07-06 at 15 08 03](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/0bfbb305-354e-423b-ac65-87c46e56d131)
 
 
-### 2. After you are done installing the apps you require, download the MAS Activation script from the above link and follow the steps below:
+### 2. After you are done installing the apps you require, copy the MAS activation from below and follow the steps below and open windows powershell as admin and press ENTER:
 
-![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/80b8b71b-ae81-4462-80ac-c3f0496b8782)
-![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/241f72fc-8122-4d59-ae3d-2004da594ece)
-![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/1a901f97-76f8-4dba-b1c7-337848b8f5dd)
-![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/36f5e845-e43d-48ea-adf5-b1b9ea9edde1)
-![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/f9344a71-4410-43ca-a15b-81b79f7aa4c4)
-![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/b1930531-266a-4d8a-8543-2d5668d7c0af)
-![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/bf3d8852-daf7-46a4-b838-bee7d0bbb500)
-![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/814e614f-1bd8-4ba7-b5cf-10fde5a2fb3a)
+`irm https://get.activated.win | iex`
+
+![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/0beb8c9c-0b2c-4a0b-ac0d-7a2fe8786835)
+![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/2f48096d-e2fe-41c4-8aa1-4a0e44bcf597)
+![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/f61118d6-2c8d-4839-a23c-406ba70ff8c4)
+![image](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/f020e78f-973f-4066-8f64-c9f8240cfe19)
+
+
+
 
 ### 3. That's it, you can close this app and open your Excel/Word/Powerpoint etc and use it
 
