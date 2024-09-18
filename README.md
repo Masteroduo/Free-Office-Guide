@@ -6,7 +6,6 @@
 
 ## Requirements:
 - A Machine with windows 10 or newer
-- [MAS Activation script](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
 - Office Setup File: Use [link](https://files.rg-adguard.net/files/b88a8fa3-20e8-f19b-f560-15bc17eb8429) to download the Apps you need
 
 ## Steps
