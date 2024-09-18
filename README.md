@@ -21,7 +21,7 @@
 ![WhatsApp Image 2023-07-06 at 15 08 03](https://github.com/Masteroduo/Free-Office-Guide/assets/79645349/0bfbb305-354e-423b-ac65-87c46e56d131)
 
 
-### 2. After you are done installing the apps you require, copy the text from below and follow the steps below and open windows powershell as admin and press ENTER:
+### 2. After you are done installing the apps you require, copy the text from below and open windows powershell as admin and paste the text you copied and press ENTER:
 
 `irm https://get.activated.win | iex`
 
